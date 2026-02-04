@@ -1,0 +1,23 @@
+flask
+pydantic
+requests
+
+
+
+https://reqbin.com/post-online
+API to testing RESTful services
+http://127.0.0.1:5000/health
+
+url:
+http://127.0.0.1:5000/send/email post
+http://127.0.0.1:5000/send/sms post
+http://127.0.0.1:5000/send/whatsapp post
+body:
+{
+  "target":"mail address or phone number",
+        "header":"header",
+        "content":"content"
+    }
+headers:
+Content-Type: application/json  
+X-API-KEY: client_abc12345
