@@ -1,3 +1,8 @@
 <Solution>
   <Project Path="AppointmentSystem.Api/AppointmentSystem.Api.csproj" />
+  <Project Path="AppointmentSystem.Application/AppointmentSystem.Application.csproj" Id="896647a8-4335-4d7f-9fcd-2ce43717e9c2" />
+  <Project Path="AppointmentSystem.Domain/AppointmentSystem.Domain.csproj" Id="9fd308cc-c5eb-4444-9e42-0abef4fe2e24" />
+  <Project Path="AppointmentSystem.Infrastructure/AppointmentSystem.Infrastructure.csproj" Id="ee6e635c-999d-401c-bb7d-c932fecf11aa" />
+  <Project Path="AppointmentSystem.Persistence/AppointmentSystem.Persistence.csproj" Id="010fc79e-8db3-4c01-9bb9-40057a6a5380" />
+  <Project Path="AppointmentSystem.Shared/AppointmentSystem.Shared.csproj" Id="b2540d09-b18f-4c98-baf3-9cac2529471d" />
 </Solution>
